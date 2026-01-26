@@ -33,4 +33,3 @@ def mysort(a):
             i-=1
 #1st element is sorted.  When we get to the nth element, the n-1 previous elements are sorted.  Just need to place it in the right spot
 
-
